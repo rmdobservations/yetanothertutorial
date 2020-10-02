@@ -99,7 +99,7 @@ github/yetanothertutorial$ git push --set-upstream origin master
 	Branch 'master' set up to track remote branch 'master' from 'origin'.
 	"
 
-# go online
+# go online THIS Was CHANGED AT 15: 09
 #master is now treated just like another branch. main is the default. So I have to
 # merge the branches online. Which I did not want to do, At least 3 buttons have to be clicked before 
 # everything turns purple. 
