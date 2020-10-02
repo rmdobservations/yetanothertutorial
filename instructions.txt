@@ -104,5 +104,6 @@ github/yetanothertutorial$ git push --set-upstream origin master
 # merge the branches online. Which I did not want to do, At least 3 buttons have to be clicked before 
 # everything turns purple. 
 
+#testing the ssh access
 
 #git log
