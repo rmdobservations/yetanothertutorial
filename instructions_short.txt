@@ -1,0 +1,23 @@
+
+$github/rmdobservations.github.io$ git remote --v
+
+# start over
+-Create on line reposiitory
+-Make a local directory with same name as repository
+
+github$ mkdir yetanothertutorial
+github$ cd yetanothertutorial
+github/yetanothertutorial$ git init
+github/yetanothertutorial$ git status
+github/yetanothertutorial$ git remote --v  
+github/yetanothertutorial$ git remote --v
+github/yetanothertutorial$ git pull origin main
+# new files locally
+github/yetanothertutorial$ nano introduction.txt
+github/yetanothertutorial$ git status
+github/yetanothertutorial$ git add --all
+github/yetanothertutorial$ git commit -am "added introduction locally from G"
+github/yetanothertutorial$ git push --set-upstream origin master
+
+
+
